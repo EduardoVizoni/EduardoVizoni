@@ -135,7 +135,8 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Aprendiz em Programação de Sistemas de Informação**  
 [**CentroWEG**](https://www.weg.net/institutional/BR/pt/) • Presencial  
-Linguagens & Tecnologias: `Java`, `JavaScript`, `TypeScript`, `SpringBoot`, `MySQL`, `Node.js`, `HTML`, `CSS`, `TailwindCSS`, `Git`...  Projetos em destaque: Desenvolvimento de aplicações web, automações internas, integração de APIs e versionamento com Git  
+Linguagens & Tecnologias: `Java`, `JavaScript`, `TypeScript`, `SpringBoot`, `MySQL`, `Node.js`, `HTML`, `CSS`, `TailwindCSS`, `Git`...
+Projetos em destaque: Desenvolvimento de aplicações web, automações internas, integração de APIs e versionamento com Git  
 <br/>
 
 ### 📊 Estatísticas

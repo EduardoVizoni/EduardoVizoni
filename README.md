@@ -14,8 +14,6 @@ Me esforço constantemente para expandir meus conhecimentos e habilidades, mesmo
 
 Meu GitHub está em constante evolução, reflexo de quem entende que desenvolvimento é um processo contínuo, feito de erros, acertos e muita persistência.
 
----
-
 ### Linguagens e Tecnologias
 
 <img 
@@ -125,6 +123,19 @@ Meu GitHub está em constante evolução, reflexo de quem entende que desenvolvi
 
 
 <br/>
+<br/>
+
+---
+
+### Experiência de trabalho
+
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="WEG" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8uLyyMDNTJpZbb9SoNchW8k9CYGBW9bzx_g&s"/>](https://www.weg.net/institutional/BR/pt/)
+
+**Aprendiz em Programação de Sistemas de Informação**  
+[**CentroWEG**](https://www.weg.net/institutional/BR/pt/) • Presencial  
+Linguagens & Tecnologias: `Java`, `JavaScript`, `TypeScript`, `SpringBoot`, `MySQL`, `Node.js`, `HTML`, `CSS`, `TailwindCSS`, `Git`...  Projetos em destaque: Desenvolvimento de aplicações web, automações internas, integração de APIs e versionamento com Git  
 <br/>
 
 ### 📊 Estatísticas

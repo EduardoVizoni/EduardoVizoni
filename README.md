@@ -125,6 +125,14 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="WEG" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8uLyyMDNTJpZbb9SoNchW8k9CYGBW9bzx_g&s"/>](https://www.weg.net/institutional/BR/pt/)
 
+**Desenvolvedor de Software**  
+[**WEG**](https://www.weg.net/institutional/BR/pt/) • Presencial  
+Tecnologias: `TypeScript`, `Node.JS`, `PHP`, `Python`, `SQL`, `Node.js`, `HTML`, `CSS`, `TailwindCSS`, `Git`...    
+Projetos em destaque: Desenvolvimento de projetos logísticos...
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="WEG" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8uLyyMDNTJpZbb9SoNchW8k9CYGBW9bzx_g&s"/>](https://www.weg.net/institutional/BR/pt/)
+
 **Aprendiz em Programação de Sistemas de Informação**  
 [**CentroWEG**](https://www.weg.net/institutional/BR/pt/) • Presencial  
 Tecnologias: `Java`, `JavaScript`, `TypeScript`, `SpringBoot`, `MySQL`, `Node.js`, `HTML`, `CSS`, `TailwindCSS`, `Git`...    
